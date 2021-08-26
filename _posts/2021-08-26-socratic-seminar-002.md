@@ -33,6 +33,7 @@ Entrem no grupo do Telegram "Bitdevs em Português"
 - [Whitepaper original por Dryja](https://adiabat.github.io/dlc.pdf)
 - [Como funcionam os DLCs?](https://suredbits.com/discreet-log-contracts-part-2-how-they-work/)
 - [Github com as Specs](https://github.com/discreetlogcontracts/dlcspecs)
+- [Outros recursos sobre DLC do London Bitdevs Meetup](https://gist.github.com/michaelfolkson/f5da6774c24f99dba5c6c16ec8d499e9)
 
 ### Exemplos de uso de DLCs
 - [Aposta no vencedor das eleições](https://suredbits.com/settlement-of-election-dlc/)
