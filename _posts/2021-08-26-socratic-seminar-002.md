@@ -31,6 +31,7 @@ Entrem no grupo do Telegram "Bitdevs em Português"
 - [O que são Discreet Log Contracts?](https://suredbits.com/discreet-log-contracts-part-1-what-is-a-discreet-log-contract/)
 - [Z-man sobre Smart Contracts](https://zmnscpxj.github.io/bitcoin/unchained.html)
 - [Whitepaper original por Dryja](https://adiabat.github.io/dlc.pdf)
+- [Como funcionam os DLCs?](https://suredbits.com/discreet-log-contracts-part-2-how-they-work/)
 
 ### Exemplos de uso de DLCs
 - [Aposta no vencedor das eleições](https://suredbits.com/settlement-of-election-dlc/)
