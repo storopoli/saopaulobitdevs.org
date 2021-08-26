@@ -11,8 +11,8 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/Bitcoin-Ass
 
 ## Anúncios
 
-Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
-Entrem no grupo do Telegram "Bitdevs em Português"
+- Entrem no Bitcoin Discord: (https://discord.gg/9cCAec2w)
+- Entrem no grupo do Telegram "[Bitdevs em Português](https://t.me/joinchat/lHusQ1bV9fUyNDY5)"
 
 ## Stats
 
