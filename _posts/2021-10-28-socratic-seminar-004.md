@@ -39,4 +39,3 @@ Detalhes sobre o local do evento aqui: [Meetup.com](https://www.meetup.com/pt-BR
 - [Budget de segurança, fees baixas e merged mining](https://www.truthcoin.info/blog/security-budget-ii-mm/)
 - [Square vai desenvolver mineradoras](https://twitter.com/jack/status/1449110239442345995?s=20)
 - [XOR seed](https://twitter.com/nk1tz/status/1447328171334963201?s=20)
-- 
