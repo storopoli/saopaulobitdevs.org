@@ -32,12 +32,13 @@ Detalhes sobre o local do evento aqui: [Meetup.com](https://www.meetup.com/pt-BR
 - [Mensagens personalizadas lnd RPC](https://github.com/lightningnetwork/lnd/pull/5346)
 - [Redesenho do protocolo de gossip para melhor privacidade](https://twitter.com/rusty_twit/status/1449875010181484545)
 
-## Ecash (Chaumian bank) versus Statechains (Bônus: LN Hosted channels]
+## eCash (Chaumian mints) versus Statechains 
+(Bônus: LN Hosted channels]
 
-- [Explicação de Statechains pela Mercury Wallet](https://www.youtube.com/watch?v=9DSvNzTBePY)
-- [Artigo do Bitcoin Magazine sobre Statechains](https://bitcoinmagazine.com/technical/a-new-privacy-tool-for-bitcoin)
-- [Explicação ecash](https://fedimint.org/)
-- [Blockstream patrocinando o desenvolvimento de ecash](https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3)
+- [Artigo da Bitcoin Magazine sobre Statechains](https://bitcoinmagazine.com/technical/a-new-privacy-tool-for-bitcoin)
+- [Explicação do funcionamento da Mercury Wallet, que utiliza statechain](https://www.youtube.com/watch?v=9DSvNzTBePY)
+- [Explicação eCash/Minimint](https://fedimint.org/MiniMint/)
+- [Blockstream patrocinando o desenvolvimento de eCash](https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3)
 - [Thread de Bob McElrath sobre alguns trade offs](https://twitter.com/BobMcElrath/status/1453428657737850882)
 - [Complemento da thread por Ruben Sonsen](https://twitter.com/SomsenRuben/status/1453482055883427844)
 - [Fiatjaf falando sobre as vantagens de LN Hosted Channels](https://twitter.com/fiatjaf/status/1453535638708539393)
