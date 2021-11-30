@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/
 
 Organizado por [Bitcoin Assembly](https://twitter.com/bitcoinassembly)
 
-Detalhes sobre o local do evento aqui: https://www.meetup.com/bitdevsemportugues/events/281792675/](https://www.meetup.com/bitdevsemportugues/events/281792675/)
+Detalhes sobre o local do evento aqui: [https://www.meetup.com/bitdevsemportugues/events/281792675/](https://www.meetup.com/bitdevsemportugues/events/281792675/)
 
 ## Anúncios
 
