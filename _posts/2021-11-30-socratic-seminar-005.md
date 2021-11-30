@@ -33,7 +33,6 @@ Detalhes sobre o local do evento aqui: https://www.meetup.com/bitdevsemportugues
 - [Prevenção de channel jamming](https://blog.bitmex.com/preventing-channel-jamming/)
 - [lnd - Reusable AMP invoices](https://github.com/lightningnetwork/lnd/pull/5803)
 - [Lightning e a Internet - Escolhendo o caminho certo](https://medium.com/breez-technology/lightning-the-internet-choosing-the-right-path-bedfa6382316)
-- 
 
 ## Misc
 
@@ -43,5 +42,3 @@ Detalhes sobre o local do evento aqui: https://www.meetup.com/bitdevsemportugues
 - [3 das primeiras 16 transações P2TR foram feitas pelos brasileiros Jaonoctus, Narcelio e Otto](https://twitter.com/narcelio/status/1459780067136004101)
 - [tbDEX whitepaper](https://tbdex.io/whitepaper.pdf)
 - [mako: Implementação do BTC em C](https://github.com/chjj/mako)
-- 
-- 
