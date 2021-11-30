@@ -33,6 +33,7 @@ Detalhes sobre o local do evento aqui: https://www.meetup.com/bitdevsemportugues
 - [Prevenção de channel jamming](https://blog.bitmex.com/preventing-channel-jamming/)
 - [lnd - Reusable AMP invoices](https://github.com/lightningnetwork/lnd/pull/5803)
 - [Lightning e a Internet - Escolhendo o caminho certo](https://medium.com/breez-technology/lightning-the-internet-choosing-the-right-path-bedfa6382316)
+- [Lightning Node Connect](https://lightning.engineering/posts/2021-11-30-lightning-node-connect-deep-dive/)
 
 ## Misc
 
