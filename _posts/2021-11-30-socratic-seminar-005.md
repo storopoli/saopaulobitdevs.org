@@ -23,6 +23,8 @@ Detalhes sobre o local do evento aqui: https://www.meetup.com/bitdevsemportugues
 - [Painel sobre Covenants - Andrew Poelstra e Jeremy Rubin](https://btctranscripts.com/tabconf/2021/2021-11-05-jeremy-rubin-andrew-poelstra-covenants/)
 - [Primeiros passos para Erlay](https://github.com/bitcoin/bitcoin/pull/23114)
 - [Modelo de Fee-bumping](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-November/019614.html)
+- [Follow-ups to Bech32 error detection](https://github.com/bitcoin/bitcoin/pull/23577)
+- [Adicionar configuração para priorizar solução sem troco na coin selection (privacidade)](https://github.com/bitcoin/bitcoin/pull/23475)
 
 ## Lightning
 
