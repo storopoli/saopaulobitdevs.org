@@ -40,12 +40,14 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [BIP 118](https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki)
 - [Eltoo](https://blockstream.com/eltoo.pdf)
 - [Vaults com Anyprevout?](http://yakshaver.org/2021/11/18/covenants.html)
+- [Branch AJ Towns - Anyprevout](https://github.com/ajtowns/bitcoin/commits/202101-anyprevout)
 - [Implementação experimental do Eltoo por R. Meyers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
 - [Alguns dos benefícios do Eltoo (não necessidade de armazenar estados antigos) com PTLC](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003278.html)
 
 ### OP_CTV
 
 - [BIP 119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki)
+- [PR implementação OP_CTV Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/21702)
 - [Use cases e Sapio no Advent Calendar](https://rubin.io/advent21/) + [Use cases no utxos.org](https://utxos.org/uses/)
 - [Reunião #01 - BIP 119](https://gnusha.org/ctv-bip-review/2022-01-11.log) - [Resumo](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019744.html)
 - [Resumo OP_CTV por Namcios na Bitcoin Magazine](https://bitcoinmagazine.com/technical/what-is-bitcoin-checktemplateverify)
