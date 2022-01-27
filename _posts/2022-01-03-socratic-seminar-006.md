@@ -41,6 +41,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [Eltoo](https://blockstream.com/eltoo.pdf)
 - [Vaults com Anyprevout?](http://yakshaver.org/2021/11/18/covenants.html)
 - [Branch AJ Towns - Anyprevout](https://github.com/ajtowns/bitcoin/commits/202101-anyprevout)
+- [Status Eltoo/Tasks](https://yakshaver.org/bitcoin/#eltoo)
 - [Implementação experimental do Eltoo por R. Meyers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
 - [Alguns dos benefícios do Eltoo (não necessidade de armazenar estados antigos) com PTLC](https://lists.linuxfoundation.org/pipermail/lightning-dev/2021-October/003278.html)
 
