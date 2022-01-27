@@ -40,7 +40,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [BIP 118](https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki)
 - [Eltoo](https://blockstream.com/eltoo.pdf)
 - [Vaults com Anyprevout?](http://yakshaver.org/2021/11/18/covenants.html)
-- [Implementação do Eltoo por R. Meyers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
+- [Implementação experimental do Eltoo por R. Meyers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
 
 ### OP_CTV
 
