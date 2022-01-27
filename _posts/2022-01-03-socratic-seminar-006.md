@@ -40,6 +40,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [BIP 118](https://github.com/bitcoin/bips/blob/master/bip-0118.mediawiki)
 - [Eltoo](https://blockstream.com/eltoo.pdf)
 - [Vaults com Anyprevout?](http://yakshaver.org/2021/11/18/covenants.html)
+- [Implementação do Eltoo por R. Meyers](https://lists.linuxfoundation.org/pipermail/lightning-dev/2019-September/002131.html)
 
 ### OP_CTV
 
@@ -57,7 +58,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [Poinsot a favor do status quo e priorização do Anyprevout](https://twitter.com/darosior/status/1474375244991369218)
 - [Timing Eltoo?](https://twitter.com/RyanTheGentry/status/1476326244555771904)
 - [Opcodes para Vaults é uma área nascente de pesquisa...](https://twitter.com/michaelfolkson/status/1474763710300368897)
-- [Review do Luke](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019776.html)
+- [Review do Luke](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019776.html) / [Resposta do J. Rubin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019781.html)
 
 ### OP_TLUV
 
