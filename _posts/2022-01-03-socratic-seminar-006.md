@@ -53,7 +53,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [Use cases e Sapio no Advent Calendar](https://rubin.io/advent21/) + [Use cases no utxos.org](https://utxos.org/uses/)
 - [Reunião #01 - BIP 119](https://gnusha.org/ctv-bip-review/2022-01-11.log) - [Resumo](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019744.html)
 - [Resumo OP_CTV por Namcios na Bitcoin Magazine](https://bitcoinmagazine.com/technical/what-is-bitcoin-checktemplateverify)
-- [OP_CTV e DLCs](https://mailmanlists.org/pipermail/dlc-dev/2022-January/000102.html)
+- [OP_CTV melhora DLCs?](https://mailmanlists.org/pipermail/dlc-dev/2022-January/000102.html) + [Adendo de Jeremy Rubin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019830.html) + [Resumo por zen so red](https://zensored.substack.com/p/supercharging-dlcs-with-ctv)
 - [Eltoo possível com OP_CTV + OP_CSFS?](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki#Eltoo_with_OP_CHECKSIGFROMSTACKVERIFY) + [Comparação com a construção por Anyprevout](https://bitcoin.stackexchange.com/questions/111497/how-do-eltoo-channel-constructions-using-anyprevout-compare-to-those-using-ctv-a)
 - [Aprenda Sapio](https://learn.sapio-lang.org/)
 
@@ -74,6 +74,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 
 - [Nova proposta do O'Connor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019813.html)
 - [Resposta J. Rubin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019814.html)
+- [Outra abordagem, por AJ](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-January/019819.html)
 
 ### As diferentes alternativas - Trade offs
 
