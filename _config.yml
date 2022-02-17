@@ -15,3 +15,6 @@ description: "BitDevs é uma comunidade para aqueles interessados em discutir e 
 # Leave out some files
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.sass-cache']
 
+# Render events with a future date
+future: true
+
