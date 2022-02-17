@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminário Socrático 007"
-meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/
+meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/
 ---
 
 Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/](https://www.meetup.com/pt-BR/bitdevsemportugues/events/283721765/)
@@ -48,7 +48,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [Sensei - implementação de Lightning com BDK e LDK](https://twitter.com/JohnCantrell97/status/1491135343604957187)
 
 ## Mineração
-
+ 
 - [CleanSpark pretende aumentar o output da mineração em mais de 20% através de resfriamento por imersão](https://www.coindesk.com/business/2021/12/09/cleanspark-aims-to-grow-bitcoin-mining-output-over-20-through-immersion-cooling/)
 - [Chip de mineração da Intel](https://www.tomshardware.com/news/intel-to-unveil-bitcoin-mining-bonanza-mine-asic-at-chip-conference)
 - [4 mineradores solo encontrando um bloco em 1 mês?](https://twitter.com/BitcoinErrorLog/status/1489191267884019715)
