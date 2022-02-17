@@ -1,7 +1,7 @@
 ---
 layout: post
 type: socratic
-title: "Seminário Socrático 006"
+title: "Seminário Socrático 007"
 meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/
 ---
 
