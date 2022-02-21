@@ -19,7 +19,8 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [3 Bounties da HRF para Lightning Tip Jar, Stable na lightning e e-cash: 1 BTC cada](https://bitcoinmagazine.com/business/hrf-strike-launch-lightning-bounty-in-bitcoin)
 - [Bounty da Coinkite de $25k para implementação em React Native do NFC Card](https://twitter.com/nvk/status/1493985018409979906)
 - [1 BTC grant para uma wallet Lightning com foco em privacidade](https://blog.wasabiwallet.io/1-btc-ln-privacy-grant/)
-- [Bounty "bem generoso" para quem encontrar uma falha grave no CTV](https://mobile.twitter.com/JeremyRubin/status/1477760236115034113)
+- [Bounty "bem generoso" para quem encontrar uma falha grave no CTV](https://mobile.twitter.com/JeremyRubin/status/1477760236115034113)\
+- [Bounty de 11M sats para integrar BIP 47 a BlueWallet](https://github.com/BlueWallet/BlueWallet/pull/4520) / [Entendendo o BIP-47](https://medium.com/@MattoshiN/bip47-reusable-payment-codes-for-hierarchical-deterministic-wallets-fbb0387595ac)
 
 ## Stats
 
@@ -38,6 +39,7 @@ Detalhes sobre o local do evento aqui: [https://www.meetup.com/pt-BR/bitdevsempo
 - [Endereços Taproot reutilizáveis](https://gist.github.com/Kixunil/0ddb3a9cdec33342b97431e438252c0a)
 - [Sugestão para periodicamente destruir UTXOs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019860.html)
 - [Oposição a covenants recursivos?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019885.html)
+- [CoinPool - Transferências offchain multi-party](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-February/019968.html)
 
 ## Lightning
 
