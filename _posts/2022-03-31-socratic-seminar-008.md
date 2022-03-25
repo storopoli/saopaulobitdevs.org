@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/
 
 ## IMPORTANTE   
 
-- **O meetup desse mês será realizado no Bitcoin Discord, onde a comunidade bitcoinheira se reúne no Brasil. Entre no servidor acessando https://discord.bitcoinheiros.com/**
+### O meetup desse mês será realizado no Bitcoin Discord, onde a comunidade bitcoinheira se reúne no Brasil. Entre no servidor acessando [https://discord.bitcoinheiros.com/](https://discord.bitcoinheiros.com/)
 
 ## Avisos
 
@@ -15,7 +15,7 @@ meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/
 - Respeite a privacidade dos participantes. 
 - Os meetups são online, mas nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados.
 - O site [Bitcoiner Jobs](https://bitcoinerjobs.co/) lista uma série de vagas abertas em empresas bitcoiners. Seria bacana termos mais brasileiros sendo contratados para essas vagas!
-- Entre no nosso Grupo no Google para ter o Bitdevs Meetup na sua agenda: https://groups.google.com/g/bitdevsportugues/
+- Entre no nosso Grupo no Google para ter o Bitdevs Meetup na sua agenda: [https://groups.google.com/g/bitdevsportugues/](https://groups.google.com/g/bitdevsportugues/)
 
 
 ## Bitcoin
