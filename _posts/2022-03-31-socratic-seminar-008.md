@@ -14,7 +14,6 @@ meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/events/284250537/
 - Entrem no grupo do Telegram "[Bitdevs em Português](https://t.me/joinchat/lHusQ1bV9fUyNDY5)" para ajudar na curadoria dos encontros!
 - Respeite a privacidade dos participantes. 
 - Os meetups são online, mas nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados.
-- O site [Bitcoiner Jobs](https://bitcoinerjobs.co/) lista uma série de vagas abertas em empresas bitcoiners. Seria bacana termos mais brasileiros sendo contratados para essas vagas!
 - Entre no nosso Grupo no Google para ter o Bitdevs Meetup na sua agenda: [https://groups.google.com/g/bitdevsportugues/](https://groups.google.com/g/bitdevsportugues/)
 
 
