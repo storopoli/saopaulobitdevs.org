@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminário Socrático 008"
-meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/
+meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/events/284250537/
 ---
 
 ## IMPORTANTE   
