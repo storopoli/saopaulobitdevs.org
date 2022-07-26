@@ -25,6 +25,7 @@ meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/events/286886353/
 - [Half-Aggregation of BIP 340 Signatures](https://blog.blockstream.com/half-aggregation-of-bip-340-signatures/)
 - [Guerra do OP_RETURN de 2014 - dApps vs. transações Bitcoin](https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/)
 - [PR #22558 - psbt: Taproot fields for PSBT](https://github.com/bitcoin/bitcoin/pull/22558)
+- [Sumário do que vem pela frente em Mempool](https://github.com/jamesob/mempool.work)
 
 ## LN
 
@@ -38,3 +39,4 @@ meetup: https://www.meetup.com/pt-BR/bitdevsemportugues/events/286886353/
 - [Novo método RIDDLE anti-sybil](https://gist.github.com/AdamISZ/51349418be08be22aa2b4b469e3be92f)
 - [Zeus adiciona suporte ao taproot](https://github.com/ZeusLN/zeus/releases/tag/v0.6.5-rc1)
 - [Wasabi Wallet 2.0 foi lançado](https://bitcoinops.org/en/newsletters/2022/04/06/#wabisabi-alternative-to-payjoin)
+- [Lançamento do protocolo Revault](https://twitter.com/revaultdev/status/1551577751727005696)
