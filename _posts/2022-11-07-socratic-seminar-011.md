@@ -25,19 +25,17 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/288318818/
 - [Muun protests opt-in full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html)
 - [Erlay PR Merged](https://github.com/bitcoin/bitcoin/pull/23443)
 - [BIP324](https://bip324.com/sections/code-review/)
-- [PR to loosen relay policy for small transactions Originally created because of leaf-Node weakness in Bitcoin Merkle Tree Design](https://bitslog.com/2018/06/09/leaf-node-weakness-in-bitcoin-merkle-tree-design/)
 
 ## LN
 
 - [BTCD and LND impacted by block parsing bug](https://twitter.com/brqgoo/status/1579216353780957185)
 - [Ephemeral Anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html)
-- [LNsploit](https://www.nakamoto.codes/BitcoinDevShop/LNsploit)
-- [Sphinx hardware node](https://twitter.com/sphinx_chat/status/1571974701098074112)
+- [TARO Release](https://lightning.engineering/posts/2022-9-28-taro-launch/)
+- [River: Insights from the 4th largest LN Node](https://blog.river.com/insights-from-the-4th-largest-lightning-network-node/)
+- [Fee Ratecards (your gateway to negativity](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 
 ## Misc
 
+- [Rollups](https://bitcoinrollups.org/)
 - [Utreexo improvement proposal problems](https://blog.bitmex.com/erroneous-findings-in-merkle-trees-optimized-for-stateless-clients-in-bitcoin/)
-- [Private Payments](https://github.com/bitcoin/bips/blob/master/bip-0351.mediawiki)
 - [Judica VM](https://github.com/judica-org/judica-vm)
-- [Stratum V2 reference implementation is published](https://twitter.com/StratumV2/status/1579805619351326722)
-- [Fedimint + FROST](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
