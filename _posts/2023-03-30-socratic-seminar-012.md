@@ -11,7 +11,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 
 ## Avisos
 
-- Entrem no grupo do Telegram "[Bitdevs em Português](https://t.me/joinchat/lHusQ1bV9fUyNDY5)" para ajudar na curadoria dos encontros!
+- Entrem no grupo do Telegram "[São Paulo Bitdevs](https://t.me/joinchat/lHusQ1bV9fUyNDY5)" para ajudar na curadoria dos encontros!
 - Respeite a privacidade dos participantes. 
 - Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
 
@@ -27,6 +27,8 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 ## Bitcoin
 
 - [Ephemeral Anchors BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021373.html) 
+- [p2p: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
+- [assumeutxo: net_processing changes](https://github.com/bitcoin/bitcoin/pull/24008)
 - [OP_VAULT BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021465.html) + [TLUVficacão](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-March/021526.html) + [Relação com OP_CTV](https://twitter.com/jamesob/status/1639020090275532800)
 - [MuSig2 BIP merged](https://github.com/bitcoin/bips/blob/master/bip-0327.mediawiki)
 
