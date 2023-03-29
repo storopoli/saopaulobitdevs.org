@@ -19,7 +19,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 
 - Agradecemos à FIAP por receber o meetup e à Vinteum por patrocinar as comidas e bebidas.
 
-## Miscelânea
+## Aquecimento
 
 - [Wolfpack 1 - Startups selecionadas para o programa de aceleração da Wolf](https://wolfnyc.com/news-wolfpack-1)
 - [SATSx Hackathon](https://www.pleblab.com/blog/satsx-hackathon-2023)
@@ -53,6 +53,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 - [Mega transação da Luxor em Fevereiro](https://mempool.space/block/0000000000000000000515e202c8ae73c8155fc472422d7593af87aa74f2cf3d) + [Visão em um Ordinal Explorer](https://ordinals.com/inscription/0301e0480b374b32851a9462db29dc19fe830a7f7d7a88b81612b9d42099c0aei0)
 - [Proposta do AJ para off-chain Inscriptions Data storage](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-February/021396.html)
 
-## Sovereign Rollups
+## Outros
 
 - [Sovereign Rollups no Bitcoin com Rollkit](https://twitter.com/RollkitDev/status/1632438374513676288?s=20)
+- [ LinkingLion - Uma entidade linkando transações de Bitcoin?](https://twitter.com/0xB10C/status/1640706555589849094)
