@@ -22,7 +22,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 ## Aquecimento
 
 - [Wolfpack 1 - Startups selecionadas para o programa de aceleração da Wolf](https://wolfnyc.com/news-wolfpack-1)
-- [SATSx Hackathon](https://www.pleblab.com/blog/satsx-hackathon-2023)
+- [SATSx Hackathon - Participantes](https://www.pleblab.com/blog/satsx-hackathon-2023)
 
 ## Bitcoin
 
