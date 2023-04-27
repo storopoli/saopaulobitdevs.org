@@ -61,3 +61,5 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 - [Mutiny levantou pre-seed de U$300k](https://blog.mutinywallet.com/introducing-mutiny/)
 - [RGB v0.10 release](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
 - [Ledger salvou a TrustWallet de potential maior hack da história](https://blog.ledger.com/Funds-of-every-wallet-created-with-the-Trust-Wallet-browser-extension-could-have-been-stolen/)
+- [Soma - a spacechain on signet with anyprevout](https://twitter.com/fiatjaf/status/1651359615358054400)
+- [Mutinynet - Signet com 30 segundos de tempo entre os blocos](https://blog.mutinywallet.com/mutinynet/)
