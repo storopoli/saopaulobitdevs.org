@@ -21,6 +21,9 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 
 ## Aquecimento
 
+- [bitcoin++ 2023](https://btcplusplus.dev/talks)
+- [BOB Space Builders Residency](https://twitter.com/BOBSpace_BKK/status/1635849327632584706)
+- [Synthetic USD on Bitcoin: The future of stablecoins?](https://www.okx.com/learn/synthetic-dollars)
 
 
 ## Bitcoin
