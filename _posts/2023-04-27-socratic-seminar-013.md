@@ -26,6 +26,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 - [Synthetic USD on Bitcoin: The future of stablecoins?](https://www.okx.com/learn/synthetic-dollars)
 - [Polls & crowd-races com Lightning para eventos, podcasts, etc. - Mash](https://twitter.com/getmash/status/1650823442655059968)
 - [Micropagamentos em Lightning por Cycles no Replit](https://twitter.com/Replit/status/1649122581998612481)
+- [Oportunidade de funding pra trabalhar com Stablesats](https://twitter.com/kodylow/status/1647297514054221825)
 
 ## Bitcoin
 
