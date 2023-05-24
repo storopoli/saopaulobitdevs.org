@@ -32,9 +32,11 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 
 ## Lightning
 
+- [Impacto das taxas on-chain na Lightning](https://twitter.com/jamesob/status/1660343417900072965)
 - [Splicing](https://lightningsplice.com/splicing_explained.html)
 
 ## E-Cash
+
 - [Fedi Alpha (Signet)](https://twitter.com/fedibtc/status/1660753799341047808)
 - [Fedimint & Bitcoin Design Collaboration](https://github.com/BitcoinDesign/Meta/issues/521)
 - [A Proof of Liabilities Scheme for Ecash Mints](https://gist.github.com/callebtc/ed5228d1d8cbaade0104db5d1cf63939)
@@ -44,5 +46,8 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 
 - [Bitcoin-Native Dispute Resolution for FOSS Bounties](https://twitter.com/wadaniel/status/1658575110096207873?t=ZQ5U0fErYSt08BEEKMfiZg&s=08)
 - [Um bloco foi minerado com pouquíssimo hashrate](https://twitter.com/ckpooldev/status/1660799764332519425)
+- [Impacto do Ordinals](https://twitter.com/LaurentMT/status/1661364155096465413?t=NEH9Qvki7uZE261wHchfoQ&s=19)
+- [Ark](https://www.arkpill.me/)
+- [PowSwap](https://bitcoinops.org/en/newsletters/2023/05/10/)
 - [TBDXXX Would Require APO BIP 118 OR CTV BIP 119](https://stacker.news/items/177563)
 - [Mutiny Wallet (Signet)](https://twitter.com/MutinyWallet/status/1661381554478669825)
