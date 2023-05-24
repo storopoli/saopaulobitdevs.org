@@ -24,6 +24,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/292381952/
 
 - [Parallel compact block downloads](https://github.com/bitcoin/bitcoin/pull/27626)
 - [Proposal to Remove BIP35 P2P 'mempool' Message](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021562.html)
+- [Proposta de nova design para mempool](https://github.com/bitcoin/bitcoin/issues/27677)
 - [Qual o status dos projetos importantes do Core? BIP324, Libbitcoinkernel e AssumeUTXO](https://github.com/bitcoin/bitcoin/projects)
 
 ## Lightning
