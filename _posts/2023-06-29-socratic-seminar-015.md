@@ -1,4 +1,4 @@
---
+---
 layout: post
 type: socratic
 title: "Seminário Socrático 015"
