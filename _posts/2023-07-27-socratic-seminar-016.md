@@ -34,6 +34,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295005078/
 * [PDK - Payjoin Developer Kit](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
 * [The many faces of Schnorr](https://eprint.iacr.org/2023/1019.pdf)
 * [What has the Taproot Annex ever done for us?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020991.html)
+* [Sparrow update - BIP322](https://github.com/sparrowwallet/sparrow/releases/tag/1.7.8), [PR 24058](https://github.com/bitcoin/bitcoin/pull/24058), [PR 27515](https://github.com/bitcoin/bitcoin/issues/27515)
 
 ## Lightning
 
