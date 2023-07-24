@@ -15,11 +15,16 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295005078/
 
 - Agradecemos à Vinteum por patrocinar as comidas e bebidas.
 
+## Mini Workshop
+
+* Mini Workshop de Bitcoin Script
+
 ## Aquecimento
 
 * [BitDevs Upgrade](https://bolt.fun/story/kicking-off--866)
 * [BIP-39 Colors](https://github.com/enteropositivo/bip39colors)
 * [Formosa - Improvement on BIP 39](https://github.com/Yuri-SVB/formosa)
+* [OpenSats Grants](https://opensats.org/blog/bitcoin-grants-july-2023)
 
 ## Bitcoin
 
@@ -32,9 +37,11 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295005078/
 
 ## Lightning
 
+* [LN Summit 2023 Notes](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-July/004014.html)
 * [AI for All: Powering APIs and Large Language Models with Lightning ⚡🤖](https://lightning.engineering/posts/2023-07-05-l402-langchain/)
 * [Announcing the VLS Beta Release!](https://vls.tech/posts/vls-beta/)
 * [-509 BTC on LN](https://twitter.com/SatoshiConsult/status/1678649115226382336)
+* [Splicing on Phoenix](https://acinq.co/blog/phoenix-splicing-update)
 
 ## Ecash
 
