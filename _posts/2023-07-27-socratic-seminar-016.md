@@ -17,7 +17,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295005078/
 
 ## Mini Workshop
 
-* Mini Workshop de Bitcoin Script
+* Mini Workshop de Bitcoin Script: Antes do Seminário Socrático teremos uma introdução a Bitcoin Script, que será aprofundada no Sábado, no [workshop Bitdevs #001](https://www.meetup.com/pt-BR/saopaulobitdevs/events/295006256/)
 
 ## Aquecimento
 
