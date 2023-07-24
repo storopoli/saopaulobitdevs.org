@@ -2,7 +2,7 @@
 layout: post
 type: socratic
 title: "Seminário Socrático 016"
-meetup: TBD
+meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295005078/
 ---
 
 ## Avisos
