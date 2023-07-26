@@ -31,6 +31,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295005078/
 * [ANYPREVOUT without ANYONECANPAY](https://github.com/bitcoin/bips/pull/1472/files)
 * [Full Report to Chaincode Labs/Bitcoin Core: Looking for Lacunae in Bitcoin Core’s Fuzzing Efforts](https://agroce.github.io/bitcoin_report.pdf)
 * [#27854: [WIP] add a stratum v2 template provider](https://github.com/bitcoin/bitcoin/pull/27854)
+* [Silent Payments: send and receive](https://github.com/bitcoin/bitcoin/pull/27827)
 * [PDK - Payjoin Developer Kit](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
 * [The many faces of Schnorr](https://eprint.iacr.org/2023/1019.pdf)
 * [What has the Taproot Annex ever done for us?](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020991.html)
