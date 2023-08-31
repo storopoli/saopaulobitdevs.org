@@ -34,8 +34,8 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295488556/
 ## Bitcoin
 
 * [BIP-352 Silent Payments addresses should have an expiration time](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-August/021849.html)
-* [BIP324 ciphersuite](https://github.com/bitcoin/bitcoin#28008)
-* [Novo algoritmo de coin selection](https://github.com/bitcoin/bitcoin#27877)
+* [BIP324 ciphersuite](https://github.com/bitcoin/bitcoin/pull/28008)
+* [Novo algoritmo de coin selection](https://github.com/bitcoin/bitcoin/pull/27877)
 * [Libbitcoin's Bitcoin Explorer vuln](https://milksad.info)
 
 ## Lightning
