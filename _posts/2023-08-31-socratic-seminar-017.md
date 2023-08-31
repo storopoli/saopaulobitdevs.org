@@ -21,7 +21,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295488556/
 
 ## Aquecimento
 
-* [Resultados AI4ALL](https://twitter.com/fedibtc/status/1688617469630464000) - ([Spec de DVM - Data Vending Machines(https://github.com/nostr-protocol/nips/pull/682)])
+* [Resultados AI4ALL](https://twitter.com/fedibtc/status/1688617469630464000) - ([Spec de DVM - Data Vending Machines](https://github.com/nostr-protocol/nips/pull/682))
 * [Segunda onda de grants da OpenSats](https://opensats.org/blog/bitcoin-and-nostr-grants-august-2023)
 
 ## Stats
