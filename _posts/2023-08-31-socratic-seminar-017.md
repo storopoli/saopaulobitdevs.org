@@ -49,6 +49,7 @@ meetup: https://www.meetup.com/pt-BR/saopaulobitdevs/events/295488556/
 
 * [Drivechains](https://blog.bitmex.com/drivechains/)
 * [Argumentos contrários a Drivechains](https://twitter.com/miketwenty1/status/1696943794321588383)
+* [Respostas a argumentos contrários](https://stacker.news/items/127974)
 * [Liquid agora é open-source](https://blog.liquid.net/expanding-transparency-the-liquid-networks-functionary-code-is-now-open-source/)
 
 ## MultiSig
