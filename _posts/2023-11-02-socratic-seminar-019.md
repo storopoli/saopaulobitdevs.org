@@ -49,5 +49,5 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/296665207
 
 ## Others
 
-* [Mining Development Kik](https://www.mining.build/meet-the-mdk-hashboard/)
+* [Mining Development Kit](https://www.mining.build/meet-the-mdk-hashboard/)
 * [Critical vulnerability: complete key recovery of AES-based hash through side-channels](https://github.com/tkaitchuck/aHash/issues/163#issuecomment-1776226598)
