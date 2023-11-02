@@ -27,6 +27,7 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/296665207
 ## Bitcoin
 
 * [BIP324 Merged 🎉](https://github.com/bitcoin/bitcoin#28331)
+* [lib: add taproot support to libconsensus](https://github.com/bitcoin/bitcoin/pull/28539)
 * [AssumeUTXO Merged 🎉](https://github.com/bitcoin/bitcoin#27596)
 * [Bitcoin Core #28107: Type-safe transaction identifiers](https://github.com/bitcoin/bitcoin#28107)
 * [Draft BIP: OP_TXHASH and OP_CHECKTXHASHVERIFY](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021975.html)
