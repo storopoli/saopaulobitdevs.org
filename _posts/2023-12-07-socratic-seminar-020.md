@@ -33,6 +33,8 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 * [Cold channels e PathCoin Redux](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022123.html)
     * [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
 * [Bitcoin Fuzz - Differential Fuzzing de implementações/libs de Bitcoin](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/3)
+* [Discussões sobre Cluster Mempool](https://delvingbitcoin.org/c/implementation/wg-cluster-mempool/9)
+* [Simulações com Warnet](https://delvingbitcoin.org/t/warnet-simulations/232)
 * [Durabit: Mecanismo de Incentivo para Distribuição de dados Nativa no Bitcoin](https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf)
 * [BitStream (Hospedagem de arquivos descentralizada, incentivada por pagamentos em BTC)](https://robinlinus.com/bitstream.pdf)
 * [Utreexo + Compact Block Filters](https://twitter.com/erik17192799/status/1730614545452863497)
