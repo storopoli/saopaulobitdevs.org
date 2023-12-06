@@ -27,12 +27,15 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 
 ## Seminário Socrático
 
+* [Bitcoin Core 26.0](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-December/000131.html)
 * [Falsificando Wallet Fingerprint](https://gitlab.com/-/snippets/3611229)
     * [Wallet Fingerprinting](https://ishaana.com/blog/wallet_fingerprinting/)
 * [Cold channels e PathCoin Redux](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022123.html)
     * [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
+* [Bitcoin Fuzz - Differential Fuzzing de implementações/libs de Bitcoin](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/3)
 * [Durabit: Mecanismo de Incentivo para Distribuição de dados Nativa no Bitcoin](https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf)
 * [BitStream (Hospedagem de arquivos descentralizada, incentivada por pagamentos em BTC)](https://robinlinus.com/bitstream.pdf)
+* [Utreexo + Compact Block Filters](https://twitter.com/erik17192799/status/1730614545452863497)
 * [Lightning Address + Bolt12](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-November/004204.html)
 * [Remessas com LNURL](https://github.com/lnurl/luds/pull/251)
 * [Covenants podem resolver o problema de transaction recycling](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022093.html)
