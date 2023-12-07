@@ -30,8 +30,6 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 * [Bitcoin Core 26.0](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-December/000131.html)
 * [Falsificando Wallet Fingerprint](https://gitlab.com/-/snippets/3611229)
     * [Wallet Fingerprinting](https://ishaana.com/blog/wallet_fingerprinting/)
-* [Cold channels e PathCoin Redux](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022123.html)
-    * [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
 * [Bitcoin Fuzz - Differential Fuzzing de implementações/libs de Bitcoin](https://delvingbitcoin.org/t/differential-fuzzing-of-bitcoin-implementations/208/3)
 * [Discussões sobre Cluster Mempool](https://delvingbitcoin.org/c/implementation/wg-cluster-mempool/9)
 * [Simulações com Warnet](https://delvingbitcoin.org/t/warnet-simulations/232)
