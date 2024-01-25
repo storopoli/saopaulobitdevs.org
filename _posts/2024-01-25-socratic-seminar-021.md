@@ -17,12 +17,10 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 
 ## Seminário Socrático
 
-* [Webhooks no LNURL payRequest](Webhooks no LNURL payRequest)
-
+* [Webhooks no LNURL payRequest](https://github.com/saopaulobitdevs/saopaulobitdevs.org/issues/17#issuecomment-1881838638)
 * [LNHance BIPS e implementacao](https://delvingbitcoin.org/t/lnhance-bips-and-implementation/376)
     * [CSFS](https://github.com/bitcoin/bips/pull/1535)
     * [BIP Internal Key](https://github.com/bitcoin/bips/pull/1534)
-
 * [TXHASH no Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/29050)
 * [The tech behind Quantum Cats](https://twitter.com/rot13maxi/status/1745983083608789345)
 * [Aritmetica de 64 bits no Bitcoin Core](https://delvingbitcoin.org/t/64-bit-arithmetic-soft-fork/397/3)
