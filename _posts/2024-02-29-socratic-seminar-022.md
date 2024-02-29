@@ -30,6 +30,7 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 * [Novos e-mails de Satoshi - Adam Back](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
 * [Novos e-mails de Satoshi - Martti Malmi](https://mmalmi.github.io/satoshi/)
 * [Semaphore - Crowdfunding com Bitcoin Scripts](https://github.com/supertestnet/semaphore)
+* [lnhook](https://github.com/jaonoctus/lnhook)
 * [Finalizada Spec de Dual Funding na Lightning](https://github.com/lightning/bolts/pull/851)
 * [v3 transaction policy for anti-pinning - PR merged](https://github.com/bitcoin/bitcoin/pull/28948)
 * [Block Stalling Bug no Core - Corrigido na v22.0](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
