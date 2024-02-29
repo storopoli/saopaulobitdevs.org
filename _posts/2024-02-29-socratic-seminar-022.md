@@ -15,9 +15,7 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 
 - Agradecemos à Vinteum pela casa, comidas e bebidas.
 
-## Seminário Socrático
-
-# Aquecimento
+## Aquecimento
 
 * [GiveCrypto doa $3.6M para Brink para financiar Bitcoin Core Development](https://twitter.com/bitcoinbrink/status/1758544229721120870)
 * [Braiins integra payouts via Lightning](https://twitter.com/BraiinsMining/status/1760319741560856983)
@@ -27,7 +25,7 @@ meetup: https://www.meetup.com/saopaulobitdevs/events/297627065/
 
 
 
-# Tópicos
+## Tópicos
 
 * [Novos e-mails de Satoshi - Adam Back](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)
 * [Novos e-mails de Satoshi - Martti Malmi](https://mmalmi.github.io/satoshi/)
