@@ -1,4 +1,4 @@
-# BitDevs em Português
+# São Paulo Bitdevs
 
 Simple Jekyll site for hosting all of the links from meetups past and future.
 
