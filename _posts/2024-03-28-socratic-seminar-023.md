@@ -7,7 +7,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681782/
 
 ## Avisos
 
-- Entrem no grupo do zapzap [São Paulo Bitdevs](https://chat.whatsapp.com/HiaPqjmUqER5djFPR1Yl3T)!
+- Entrem no grupo do Whatsapp [São Paulo Bitdevs](https://chat.whatsapp.com/HiaPqjmUqER5djFPR1Yl3T)!
 - Respeite a privacidade dos participantes.
 - Os meetups nunca são gravados. Queremos todos a vontade para participar e discutir os assuntos programados, de forma anônima se assim o desejarem.
 
@@ -17,13 +17,13 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681782/
 
 ## Aquecimento
 
+* Sovereign Engineering Cohort 1 - Relato de Viagem + Update do Leonardo Lima
 * [LTS Opensats grant pro Bruno](https://www.nobsbitcoin.com/opensats-lts-bruno-garcia/)
-* [El Salvador tem um endereco de Bitcoin](https://www.nobsbitcoin.com/bukele-reveals-el-salvadors-bitcoin-address/)
 * [Bitkey disponivel](https://bitkey.build/bitkey-starts-shipping-today/)
     * [Sharing the Code Behind Bitkey](https://bitkey.build/sharing-the-code-behind-bitkey/)
     * [BitKey - Nunchuck review](https://nunchuk.io/blog/bitkey)
 * [TwentyTwo Devices - Portal HW Wallet](https://github.com/TwentyTwoHW)
-* [WTF is Marathon up to?](https://twitter.com/mononautical/status/1772570991572431298?s=48)
+* [Marathon trollando Mempool.Space](https://twitter.com/mononautical/status/1772570991572431298?s=48)
 * [Pix in Brazil: A Field Study for the Bitcoin Community](https://www.psacramento.com/pix-in-brazil-a-field-study-for-the-bitcoin-community/)
 
 ## Bitcoin Core
