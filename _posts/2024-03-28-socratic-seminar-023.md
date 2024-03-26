@@ -24,7 +24,6 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681782/
     * [BitKey - Nunchuck review](https://nunchuk.io/blog/bitkey)
 * [TwentyTwo Devices - Portal HW Wallet](https://github.com/TwentyTwoHW)
 * [Marathon trollando Mempool.Space](https://twitter.com/mononautical/status/1772570991572431298?s=48)
-* [Pix in Brazil: A Field Study for the Bitcoin Community](https://www.psacramento.com/pix-in-brazil-a-field-study-for-the-bitcoin-community/)
 
 ## Bitcoin Core
 
@@ -50,17 +49,10 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681782/
 ## Ecash
 
 * [Pay a single Lightning invoice from Ecash balances on multiple Cashu mints](https://twitter.com/callebtc/status/1766116631795662921)
-* [Free Madeira Federation](https://twitter.com/BitcoinAtlantis/status/1772276338621071542)
 
 ## Misc
 
 * [On consensus changes in bitcoin 2024](https://delvingbitcoin.org/t/on-consensus-changes-in-bitcoin-2024/334/1)
 * [Runes soon TM](https://bitcoinmagazine.com/technical/rodarmor-returns-announces-runes-protocol-to-compete-with-brc-20)
 * [Teleport Transactions - Functioning, minimal-viable binaries and libraries to perform a trustless, p2p Maxwell-Belcher Coinswap Protocol](https://github.com/utxo-teleport/teleport-transactions?tab=readme-ov-file#teleport-transactions)
-* [Bisq 2.0](https://njump.me/nevent1qqs9fn67c77npdhkh2kf8ygwz0qztqytjkd932j5cmw2em7clu5d04gzyphlayamwt22c7y0mzlzmt04hd9z799rxr2npv8x30tn8jt5f3npjv4fqm0)
-* [Decentralized Whirlpool](https://twitter.com/SamouraiWallet/status/1770560344865267954)
-* [Rust Bitcoin: Support signing taproot in psbt](https://github.com/rust-bitcoin/rust-bitcoin/pull/2458)
-* [Re enable OP_CAT](https://github.com/bitcoin-inquisition/bitcoin/pull/39)
 * [GoFetch M series side channel vulnerability](https://www.nobsbitcoin.com/gofetch-mac-m-series-chip-vulnerability/)
-* [Citrea Groth16](https://twitter.com/citrea_xyz/status/1768276018077589591)
-* [BitVM 2: Permissionless Verification on Bitcoin](https://gist.github.com/RobinLinus/2251939ba074bd8af80a3826b1983246)
