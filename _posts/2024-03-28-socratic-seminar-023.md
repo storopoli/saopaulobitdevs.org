@@ -23,7 +23,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681782/
     * [Sharing the Code Behind Bitkey](https://bitkey.build/sharing-the-code-behind-bitkey/)
     * [BitKey - Nunchuck review](https://nunchuk.io/blog/bitkey)
 * [TwentyTwo Devices - Portal HW Wallet](https://github.com/TwentyTwoHW)
-* [Marathon trollando Mempool.Space](https://twitter.com/mononautical/status/1772570991572431298?s=48)
+* [Marathon trollando Mempool.Space](https://twitter.com/MarathonDH/status/1772588770786721970)
 
 ## Bitcoin Core
 
