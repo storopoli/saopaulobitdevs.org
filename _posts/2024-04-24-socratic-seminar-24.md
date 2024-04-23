@@ -17,29 +17,36 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 
 ## Cronograma
 
-* [Policy: Enforce witness script size limit for tapscript](https://github.com/bitcoin/bitcoin/pull/29769)
-* [Backdoor no XZ tools](https://www.nobsbitcoin.com/backdoor-in-xz-tools-used-by-most-linux-distros/)
-* [Transmissão de um transação via código morse](https://x.com/digp2p/status/1774119703750836225?s=46)
-* [Hedgehog - A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
-* [Grant da HRF para pesquisa com Cross Input Signature Aggregation (CISA)](https://twitter.com/gladstein/status/1775590409017966648)
-* [Constellation - a high performance Lightning-based L3](https://delvingbitcoin.org/t/constellation-a-high-performance-lightning-based-l3-feedback-wanted/775)
-* [Mutiny Wallet v0.6.1: New Home Screen, Nostr Profile Setup, Federation Discovery & Recommendations](https://blog.mutinywallet.com/mutiny-new-design-people-oriented)
+### Aquecimento
+
+* [Bolsa de Estudos para Open-Source Bitcoin Devs (1 ano de faculdade paga)](https://chaincode.applytojob.com/apply/F0HErM5FSk/Bitcoin-Scholarship)
 * [Testnet4 incoming?](https://gnusha.org/pi/bitcoindev/CADL_X_eXjbRFROuJU0b336vPVy5Q2RJvhcx64NSNPH-3fDCUfw@mail.gmail.com/)
-* [Guia de testes para Bitcoin Core v27.0rc1](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/27.0-Release-Candidate-Testing-Guide)
-* [LND parametro de coin selection em alguns de seus RPCs](https://github.com/lightningnetwork/lnd/pull/8515)
-* [DSL para descrever e rodar Bitcoin contracts](https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts/748)
-* [Hora de revisar o BIP2?](https://gnusha.org/pi/bitcoindev/59fa94cea6f70e02b1ce0da07ae230670730171c.camel@timruffing.de/)
-* [Constallation - uma L3 de alta performance](https://delvingbitcoin.org/t/constellation-a-high-performance-lightning-based-l3-feedback-wanted)
-* [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
+* [Hedgehog - A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
+* [Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
+* [Pools de Mineração com o mesmo template](https://twitter.com/0xB10C/status/1780611768081121700)
+
+### Bitcoin
+
 * [2024-04-16 Bitcoin 27.0 released](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-27.0.md)
-* [Entendendo o CatVM](https://bitcoinmagazine.com/technical/what-the-heck-is-catvm)
-* [Resolveram o bounty de adicionar o SHA256 ao BitVM](https://twitter.com/robin_linus/status/1780881121397428619)
+* [Novos revisores dos BIPs](https://github.com/bitcoin/bips/pull/1573)
+* [Hora de revisar o BIP2?](https://gnusha.org/pi/bitcoindev/59fa94cea6f70e02b1ce0da07ae230670730171c.camel@timruffing.de/)
 * [Novo bug no rust-bitcoin encontrado pelo bitcoinfuzz](https://github.com/rust-bitcoin/rust-bitcoin/issues/2681)
 * [1p1c sem alterar nada no p2p do Bitcoin](https://github.com/bitcoin/bitcoin/pull/28970)
+* [Policy: Enforce witness script size limit for tapscript](https://github.com/bitcoin/bitcoin/pull/29769)
+
+### Lightning
+
+* [LND parametro de coin selection em alguns de seus RPCs](https://github.com/lightningnetwork/lnd/pull/8515)
+* [Mutiny Wallet v0.6.1: New Home Screen, Nostr Profile Setup, Federation Discovery & Recommendations](https://blog.mutinywallet.com/mutiny-new-design-people-oriented)
+* [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
+
+### Misc
+
 * [Carteira MIT da Kraken](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)
-* [Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
-* [Pesquisa sobre CISA por fjhar](https://cisaresearch.org/)
-* [Bolsa de Estudos para Open-Source Bitcoin Devs (1 ano de faculdade paga)](https://chaincode.applytojob.com/apply/F0HErM5FSk/Bitcoin-Scholarship)
+* [Resolveram o bounty de adicionar o SHA256 ao BitVM](https://twitter.com/robin_linus/status/1780881121397428619)
+* [Grant da HRF para pesquisa com Cross Input Signature Aggregation (CISA)](https://twitter.com/gladstein/status/1775590409017966648)
+* [Entendendo o CatVM](https://bitcoinmagazine.com/technical/what-the-heck-is-catvm)
 * [ZkCoins](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
-* [Pools de Mineração com o mesmo template](https://twitter.com/0xB10C/status/1780611768081121700)
 * [Analisando um convenant de vault simples com Alloy](https://delvingbitcoin.org/t/analyzing-simple-vault-covenant-with-alloy/819)
+* [Pesquisa sobre CISA por fjhar](https://cisaresearch.org/)
+* [Transmissão de um transação via código morse](https://x.com/digp2p/status/1774119703750836225?s=46)
