@@ -19,6 +19,7 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 
 ### Aquecimento
 
+* Sovereign Engineering Cohort 1 - Relato de Viagem + Update do Leonardo Lima
 * [Bolsa de Estudos para Open-Source Bitcoin Devs (1 ano de faculdade paga)](https://chaincode.applytojob.com/apply/F0HErM5FSk/Bitcoin-Scholarship)
 * [Testnet4 incoming?](https://gnusha.org/pi/bitcoindev/CADL_X_eXjbRFROuJU0b336vPVy5Q2RJvhcx64NSNPH-3fDCUfw@mail.gmail.com/)
 * [Pools de Mineração com o mesmo template](https://twitter.com/0xB10C/status/1780611768081121700)
