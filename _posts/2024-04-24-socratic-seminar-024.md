@@ -21,9 +21,8 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 
 * [Bolsa de Estudos para Open-Source Bitcoin Devs (1 ano de faculdade paga)](https://chaincode.applytojob.com/apply/F0HErM5FSk/Bitcoin-Scholarship)
 * [Testnet4 incoming?](https://gnusha.org/pi/bitcoindev/CADL_X_eXjbRFROuJU0b336vPVy5Q2RJvhcx64NSNPH-3fDCUfw@mail.gmail.com/)
-* [Hedgehog - A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
-* [Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
 * [Pools de Mineração com o mesmo template](https://twitter.com/0xB10C/status/1780611768081121700)
+* [Grant da HRF para pesquisa com Cross Input Signature Aggregation (CISA)](https://twitter.com/gladstein/status/1775590409017966648)
 
 ### Bitcoin
 
@@ -39,12 +38,13 @@ meetup: https://www.meetup.com/clubebitcoinsp/events/299681790/
 * [LND parametro de coin selection em alguns de seus RPCs](https://github.com/lightningnetwork/lnd/pull/8515)
 * [Mutiny Wallet v0.6.1: New Home Screen, Nostr Profile Setup, Federation Discovery & Recommendations](https://blog.mutinywallet.com/mutiny-new-design-people-oriented)
 * [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
+* [Hedgehog - A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
 
 ### Misc
 
 * [Carteira MIT da Kraken](https://blog.kraken.com/product/kraken-wallet/kraken-wallet-security)
 * [Resolveram o bounty de adicionar o SHA256 ao BitVM](https://twitter.com/robin_linus/status/1780881121397428619)
-* [Grant da HRF para pesquisa com Cross Input Signature Aggregation (CISA)](https://twitter.com/gladstein/status/1775590409017966648)
+* [Cashu-based reward system for a pleb-friendly Bitcoin Mining Pool](https://github.com/plebemineira/plebpool/discussions/7)
 * [Entendendo o CatVM](https://bitcoinmagazine.com/technical/what-the-heck-is-catvm)
 * [ZkCoins](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
 * [Analisando um convenant de vault simples com Alloy](https://delvingbitcoin.org/t/analyzing-simple-vault-covenant-with-alloy/819)
